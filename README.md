@@ -12,3 +12,30 @@ Fait par Lucie Heslouis, Asceline Boullen, et Corentin Vicart.
 Nom du site : petshop.com
 Accroche: "La boutique qui a du mordant"
 Couleurs: "#A3C75B #A9B6CB #147879 #0C4E4E #F19333 #E2794C #C94F30 #194A43
+
+Taxonomie: 
+         Furet :
+-Manteau
+-Déguisement
+-Robe
+-Pull
+-Tee shirt
+-Combinaison
+-Bonnet
+         Chat :
+-Manteau
+-Déguisement
+-Robe
+-Pull
+-Tee shirt
+-Combinaison
+-Bonnet
+         Chien :
+-Manteau
+-Déguisement
+-Robe
+-Pull
+-Tee shirt
+-Combinaison
+-Bonnet
+-Chaussons
